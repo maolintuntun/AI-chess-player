@@ -60,7 +60,7 @@ Search space:
 Description of the agent:
      Read the chess board, based on the board using minmax algorithm and evaluation function to decide the optimal position for the next step and move.
      
-# Indicate if the game is a loss, win, or draw and submit your source code:
+# Indicate if the game is a loss, win
    When the return value of the evaluation function is negative maximum, it loss; when value is maximum (625 points when target=5), it wins; when there are no position left for move, it draw.
    
 # Result：
